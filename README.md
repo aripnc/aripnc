@@ -39,11 +39,10 @@
 
 <br>
 
-<!-- <div>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aripnc&layout=compact&langs_count=8&theme=codeSTACKr"/>
- -
+<div>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aripnc&layout=compact&langs_count=8&theme=codeSTACKr"/>
  <img align="top" src="https://github-readme-stats.vercel.app/api?username=aripnc&show_icons=true&theme=codeSTACKr" /> 
-</div> -->
+</div>
 
 <br>
 
